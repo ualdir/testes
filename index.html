@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>VANMO — Redirecting...</title>
+  <script>
+    (function () {
+      // 1. Check persistence
+      var lang = localStorage.getItem('vanmo_lang');
+
+      // 2. Check browser
+      if (!lang) {
+        var userLang = navigator.language || navigator.userLanguage;
+        if (userLang.toLowerCase().startsWith('en')) lang = 'en';
+        else if (userLang.toLowerCase().startsWith('es')) lang = 'es';
+        else lang = 'pt'; // Default
+      }
+
+      // 3. Construct target URL
+      var path = window.location.pathname;
+      // Remove specific filename if present (index.html)
+      path = path.replace(/\/index\.html$/i, '');
+      // Remove trailing slash
+      if (path.endsWith('/')) path = path.slice(0, -1);
+
+      // Redirect to /pt/, /en/ or /es/
+      window.location.replace(path + '/' + lang + '/index.html');
+    })();
+  </script>
+  <!-- Fallback in case JS is disabled -->
+  <meta http-equiv="refresh" content="0;url=pt/index.html">
+</head>
+
+<body>
+  <p>Redirecting... / Redirecionando...</p>
+  <p>
+    <a href="pt/index.html">Português</a> |
+    <a href="en/index.html">English</a> |
+    <a href="es/index.html">Español</a>
+  </p>
+</body>
+
+</html>
