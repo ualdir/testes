@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "title": "VANMO — Tecnologia e Mobilidade Urbana",
+    "description": "Integramos software avançado com micromobilidade elétrica para transformar cidades e empresas."
+  },
+  "nav": {
+    "about": "Quem Somos",
+    "tech": "Tecnologia",
+    "mobility": "Mobilidade",
+    "integration": "Integração",
+    "clients": "Para Quem",
+    "contact": "Contato"
+  },
+  "hero": {
+    "slides": [
+      {
+        "title": "Tecnologia e Mobilidade Urbana",
+        "lead": "Integrando software avançado com bikes elétricas para transformar cidades e empresas.",
+        "buttons": [
+           { "label": "Começar Agora", "href": "#contato", "variant": "primary" },
+           { "label": "Saiba Mais", "href": "#tecnologia", "variant": "outline" }
+        ],
+        "image": "https://placehold.co/600x400/5271ff/ffffff?text=Tecnologia+%2B+Mobilidade",
+        "alt": "VANMO Tech e Mobilidade"
+      },
+       {
+        "title": "Desenvolvimento\nLow Code & Vibe Code",
+        "lead": "Aplicações rápidas, seguras e escaláveis para acelerar o seu negócio.",
+        "buttons": [{ "label": "Nossas Soluções", "href": "#tecnologia", "variant": "primary" }],
+        "image": "https://placehold.co/600x400/00bf8f/ffffff?text=Software+House",
+        "alt": "Desenvolvimento de Software"
+      },
+      {
+        "title": "Micromobilidade\nSustentável",
+        "lead": "Soluções completas de bikes elétricas para corporações e cidades inteligentes.",
+        "buttons": [{ "label": "Conhecer Frotas", "href": "#mobilidade", "variant": "primary" }],
+        "image": "https://placehold.co/600x400/3a52b8/ffffff?text=Bikes+Eletricas",
+        "alt": "Mobilidade Urbana"
+      }
+    ]
+  },
+  "about": {
+    "title": "Quem Somos",
+    "lead1": "A VANMO é uma empresa de tecnologia e mobilidade urbana focada em resolver problemas reais com soluções digitais rápidas, escaláveis e sustentáveis.",
+    "lead2": "Atuamos na interseção entre software, smart cities e micromobilidade elétrica, ajudando organizações a inovar com eficiência, menor custo e maior impacto ambiental e social.",
+    "stats": {
+      "projects": "Projetos Entregues",
+      "clients": "Clientes Atendidos",
+      "years": "Anos de Experiência"
+    },
+    "cards": {
+      "innovation": { "title": "Inovação", "desc": "Soluções digitais rápidas e escaláveis" },
+      "efficiency": { "title": "Eficiência", "desc": "Menor custo, maior impacto" },
+      "sustainability": { "title": "Sustentabilidade", "desc": "Impacto ambiental e social positivo" }
+    }
+  },
+  "tech": {
+    "title": "Desenvolvimento de Software",
+    "description": "Criamos aplicações digitais de forma ágil, segura e escalável, reduzindo tempo de desenvolvimento e custo de operação.",
+    "card1": {
+        "title": "O que desenvolvemos",
+        "items": [
+            "Web Apps e Mobile Apps",
+            "Dashboards e painéis de dados",
+            "Sistemas de gestão (ERP, CRM, Eventos, Tickets)",
+            "Marketplaces e plataformas digitais",
+            "APIs, integrações e automações de processos"
+        ]
+    },
+    "card2": {
+        "title": "Por que Low Code & Vibe Code",
+        "items": [
+            "MVP funcional em semanas",
+            "Iteração rápida com o negócio",
+            "Menor custo de desenvolvimento",
+            "Escalável desde o primeiro dia",
+            "Ideal para startups, empresas e setor público"
+        ],
+        "cta": "Quero desenvolver uma solução digital"
+    }
+  },
+  "mobility": {
+    "title": "Mobilidade Urbana com",
+    "title_accent": "Bikes Elétricas",
+    "description": "Projetamos e implementamos soluções completas de micromobilidade elétrica, indo muito além da simples oferta de bicicletas.",
+    "sectors_title": "Atendemos diversos setores",
+    "cards": {
+        "corporate": { "title": "Mobilidade corporativa", "desc": "Soluções para deslocamento interno de colaboradores em grandes empresas e condomínios." },
+        "public": { "title": "Cidades e projetos públicos", "desc": "Sistemas de bike-sharing integrados a políticas públicas de mobilidade urbana." },
+        "universities": { "title": "Universidades e campi", "desc": "Mobilidade sustentável dentro de grandes campus universitários e centros de pesquisa." },
+        "logistics": { "title": "Logística urbana de curta distância", "desc": "Bikes elétricas para entregas rápidas e sustentáveis em centros urbanos." },
+        "tourism": { "title": "Turismo e economia sustentável", "desc": "Locação de bikes elétricas para turistas e projetos de turismo sustentável." }
+    },
+    "delivery_title": "O que entregamos",
+    "delivery_items": [
+        "Projetos de mobilidade urbana sustentável",
+        "Frota de bikes elétricas",
+        "Sistemas de gestão e monitoramento",
+        "Integração com aplicativos e dashboards",
+        "Modelos operacionais e de negócio"
+    ]
+  },
+  "portfolio": {
+    "title": "Nosso Portfólio",
+    "description": "Conheça alguns dos projetos que transformaram a realidade de nossos parceiros.",
+    "projects": [
+        { "tag": "Web App", "title": "Sistema de Gestão de Frotas", "desc": "Plataforma completa para monitoramento em tempo real de bikes elétricas corporativas." },
+        { "tag": "Mobilidade", "title": "Cidade Conectada", "desc": "Sistema de bike-sharing integrado com dashboard de indicadores urbanos em tempo real." },
+        { "tag": "Dashboard", "title": "Painel Ambiental", "desc": "Dashboard de impacto ambiental com métricas de CO₂ evitado e quilômetros percorridos." }
+    ]
+  },
+  "integration": {
+    "title": "Onde Tecnologia e Mobilidade se Encontram",
+    "description": "O diferencial da VANMO é unir software + mobilidade urbana em soluções integradas.",
+    "subtitle": "Exemplos práticos",
+    "items": [
+        "Aplicativos para gestão de frota de bikes elétricas",
+        "Dashboards com dados de uso e impacto ambiental",
+        "Sistemas de reserva, tickets, acesso e controle",
+        "Integração com QR Code, NFC, GPS e IoT",
+        "Dados para tomada de decisão corporativa e pública"
+    ],
+    "strong": "Tudo pensado para escala, eficiência e impacto real.",
+    "callout": {
+        "title": "Integração Completa",
+        "subtitle": "Software + Hardware + Dados",
+        "desc": "Conectamos todas as partes do ecossistema de mobilidade urbana em uma única plataforma inteligente."
+    }
+  },
+  "use_cases": {
+    "title": "Casos de Uso",
+    "cards": {
+        "corporate": { "title": "Mobilidade corporativa", "desc": "Redução de custos com deslocamentos internos, dados de uso em tempo real e incentivo à cultura sustentável." },
+        "smart_cities": { "title": "Projetos urbanos e smart cities", "desc": "Soluções de micromobilidade integradas a sistemas digitais, com métricas claras de impacto ambiental e social." },
+        "startups": { "title": "Startups e inovação", "desc": "MVPs rápidos para validar ideias, testar modelos de negócio e escalar soluções de mobilidade." }
+    }
+  },
+  "clients": {
+    "title": "Para quem é a VANMO",
+    "description": "Trabalhamos com organizações que buscam inovação prática e sustentável:",
+    "cards": {
+        "startups": "Startups",
+        "companies": "Empresas",
+        "city_halls": "Prefeituras",
+        "hubs": "Hubs de Inovação",
+        "ngos": "ONGs",
+        "universities": "Universidades"
+    }
+  },
+  "contact": {
+    "title": "Vamos construir sua solução?",
+    "description": "Seja um sistema digital, um projeto de mobilidade urbana ou a integração dos dois, a VANMO está pronta para ajudar.",
+    "whatsapp": "Agendar uma conversa",
+    "email": "Enviar um briefing rápido"
+  },
+  "footer": {
+    "tagline_strong": "Tecnologia • Mobilidade Urbana • Sustentabilidade",
+    "tagline_muted": "Soluções digitais e físicas para um futuro mais inteligente e sustentável.",
+    "links_title": "Links Rápidos",
+    "contact_title": "Contato",
+    "whatsapp_link": "Fale conosco pelo WhatsApp",
+    "email_link": "Envie um e-mail",
+    "copyright": "© 2026 VANMO - Tecnologia e Mobilidade Urbana. Todos os direitos reservados."
+  }
+}

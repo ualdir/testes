@@ -1,0 +1,230 @@
+{
+    "meta": {
+        "title": "VANMO — Technology and Urban Mobility",
+        "description": "We integrate advanced software with electric micromobility to transform cities and companies."
+    },
+    "nav": {
+        "about": "About Us",
+        "tech": "Technology",
+        "mobility": "Mobility",
+        "integration": "Integration",
+        "clients": "Target Audience",
+        "contact": "Contact"
+    },
+    "hero": {
+        "slides": [
+            {
+                "title": "Technology and Urban Mobility",
+                "lead": "Integrating advanced software with electric bikes to transform cities and companies.",
+                "buttons": [
+                    {
+                        "label": "Start Now",
+                        "href": "#contato",
+                        "variant": "primary"
+                    },
+                    {
+                        "label": "Learn More",
+                        "href": "#tecnologia",
+                        "variant": "outline"
+                    }
+                ],
+                "image": "https://placehold.co/600x400/5271ff/ffffff?text=Technology+%2B+Mobility",
+                "alt": "VANMO Tech and Mobility"
+            },
+            {
+                "title": "Development\nLow Code & Vibe Code",
+                "lead": "Fast, secure, and scalable applications to accelerate your business.",
+                "buttons": [
+                    {
+                        "label": "Our Solutions",
+                        "href": "#tecnologia",
+                        "variant": "primary"
+                    }
+                ],
+                "image": "https://placehold.co/600x400/00bf8f/ffffff?text=Software+House",
+                "alt": "Software Development"
+            },
+            {
+                "title": "Sustainable\nMicromobility",
+                "lead": "Complete electric bike solutions for corporations and smart cities.",
+                "buttons": [
+                    {
+                        "label": "Fleet Solutions",
+                        "href": "#mobilidade",
+                        "variant": "primary"
+                    }
+                ],
+                "image": "https://placehold.co/600x400/3a52b8/ffffff?text=Electric+Bikes",
+                "alt": "Urban Mobility"
+            }
+        ]
+    },
+    "about": {
+        "title": "About Us",
+        "lead1": "VANMO is a technology and urban mobility company focused on solving real problems with fast, scalable, and sustainable digital solutions.",
+        "lead2": "We operate at the intersection of software, smart cities, and electric micromobility, helping organizations innovate efficiently, with lower costs and greater environmental and social impact.",
+        "stats": {
+            "projects": "Projects Delivered",
+            "clients": "Clients Served",
+            "years": "Years of Experience"
+        },
+        "cards": {
+            "innovation": {
+                "title": "Innovation",
+                "desc": "Fast and scalable digital solutions"
+            },
+            "efficiency": {
+                "title": "Efficiency",
+                "desc": "Lower cost, higher impact"
+            },
+            "sustainability": {
+                "title": "Sustainability",
+                "desc": "Positive environmental and social impact"
+            }
+        }
+    },
+    "tech": {
+        "title": "Software Development",
+        "description": "We create digital applications in an agile, secure, and scalable way, reducing development time and operating costs.",
+        "card1": {
+            "title": "What we develop",
+            "items": [
+                "Web Apps and Mobile Apps",
+                "Dashboards and data panels",
+                "Management systems (ERP, CRM, Events, Tickets)",
+                "Marketplaces and digital platforms",
+                "APIs, integrations, and process automation"
+            ]
+        },
+        "card2": {
+            "title": "Why Low Code & Vibe Code",
+            "items": [
+                "Functional MVP in weeks",
+                "Fast iteration with the business",
+                "Lower development cost",
+                "Scalable from day one",
+                "Ideal for startups, companies, and the public sector"
+            ],
+            "cta": "I want to develop a digital solution"
+        }
+    },
+    "mobility": {
+        "title": "Urban Mobility with",
+        "title_accent": "Electric Bikes",
+        "description": "We design and implement complete electric micromobility solutions, going far beyond simply offering bicycles.",
+        "sectors_title": "We serve various sectors",
+        "cards": {
+            "corporate": {
+                "title": "Corporate Mobility",
+                "desc": "Solutions for internal employee commuting in large companies and condominiums."
+            },
+            "public": {
+                "title": "Cities and Public Projects",
+                "desc": "Bike-sharing systems integrated with public urban mobility policies."
+            },
+            "universities": {
+                "title": "Universities and Campuses",
+                "desc": "Sustainable mobility within large university campuses and research centers."
+            },
+            "logistics": {
+                "title": "Short-Distance Urban Logistics",
+                "desc": "Electric bikes for fast and sustainable deliveries in urban centers."
+            },
+            "tourism": {
+                "title": "Tourism and Sustainable Economy",
+                "desc": "Electric bike rentals for tourists and sustainable tourism projects."
+            }
+        },
+        "delivery_title": "What we deliver",
+        "delivery_items": [
+            "Sustainable urban mobility projects",
+            "Electric bike fleet",
+            "Management and monitoring systems",
+            "Integration with apps and dashboards",
+            "Operational and business models"
+        ]
+    },
+    "portfolio": {
+        "title": "Our Portfolio",
+        "description": "Discover some of the projects that transformed the reality of our partners.",
+        "projects": [
+            {
+                "tag": "Web App",
+                "title": "Fleet Management System",
+                "desc": "Complete platform for real-time monitoring of corporate electric bikes."
+            },
+            {
+                "tag": "Mobility",
+                "title": "Connected City",
+                "desc": "Bike-sharing system integrated with a real-time urban indicators dashboard."
+            },
+            {
+                "tag": "Dashboard",
+                "title": "Environmental Dashboard",
+                "desc": "Environmental impact dashboard with metrics on avoided CO₂ and kilometers traveled."
+            }
+        ]
+    },
+    "integration": {
+        "title": "Where Technology and Mobility Meet",
+        "description": "VANMO's differentiator is uniting software + urban mobility in integrated solutions.",
+        "subtitle": "Practical Examples",
+        "items": [
+            "Apps for electric bike fleet management",
+            "Dashboards with usage and environmental impact data",
+            "Reservation, ticketing, access, and control systems",
+            "Integration with QR Code, NFC, GPS, and IoT",
+            "Data for corporate and public decision-making"
+        ],
+        "strong": "All designed for scale, efficiency, and real impact.",
+        "callout": {
+            "title": "Complete Integration",
+            "subtitle": "Software + Hardware + Data",
+            "desc": "We connect all parts of the urban mobility ecosystem into a single smart platform."
+        }
+    },
+    "use_cases": {
+        "title": "Use Cases",
+        "cards": {
+            "corporate": {
+                "title": "Corporate Mobility",
+                "desc": "Cost reduction with internal travel, real-time usage data, and encouraging sustainable culture."
+            },
+            "smart_cities": {
+                "title": "Urban Projects and Smart Cities",
+                "desc": "Micromobility solutions integrated with digital systems, with clear environmental and social impact metrics."
+            },
+            "startups": {
+                "title": "Startups and Innovation",
+                "desc": "Rapid MVPs to validate ideas, test business models, and scale mobility solutions."
+            }
+        }
+    },
+    "clients": {
+        "title": "Who is VANMO for",
+        "description": "We work with organizations seeking practical and sustainable innovation:",
+        "cards": {
+            "startups": "Startups",
+            "companies": "Companies",
+            "city_halls": "City Halls",
+            "hubs": "Innovation Hubs",
+            "ngos": "NGOs",
+            "universities": "Universities"
+        }
+    },
+    "contact": {
+        "title": "Let's build your solution?",
+        "description": "Whether it's a digital system, an urban mobility project, or the integration of both, VANMO is ready to help.",
+        "whatsapp": "Schedule a conversation",
+        "email": "Send a quick briefing"
+    },
+    "footer": {
+        "tagline_strong": "Technology • Urban Mobility • Sustainability",
+        "tagline_muted": "Digital and physical solutions for a smarter and more sustainable future.",
+        "links_title": "Quick Links",
+        "contact_title": "Contact",
+        "whatsapp_link": "Chat with us on WhatsApp",
+        "email_link": "Send an email",
+        "copyright": "© 2026 VANMO - Technology and Urban Mobility. All rights reserved."
+    }
+}
